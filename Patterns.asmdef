@@ -1,0 +1,16 @@
+{
+    "name": "Patterns",
+    "rootNamespace": "Patterns",
+    "references": [
+        "GUID:f965c08c608bcd644b4ad4feed3ec5ab"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
